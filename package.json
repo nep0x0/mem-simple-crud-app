@@ -1,0 +1,12 @@
+{
+  "name": "mem-simple-crud-app",
+  "version": "1.0.0",
+  "description": "Welcome to the **MEM Simple CRUD App** repository! This project is a simple CRUD (Create, Read, Update, Delete) application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
